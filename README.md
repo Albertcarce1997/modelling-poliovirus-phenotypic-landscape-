@@ -28,6 +28,7 @@ Published panels were assembled and annotated in Adobe Illustrator, so colours,
 labels and leader lines may differ from the raw script output. The values are
 the same.
 
+
 ## Requirements
 
 Python 3.9 or later. Most folders need only `numpy`, `pandas`, `matplotlib` and
@@ -39,3 +40,18 @@ what its own script needs.
 
 The matplotlib figures use Arial; any sans-serif font works, and the fallback
 list is the first setting in each script's CONFIG block.
+
+## Raw data
+
+Besòs cVDPV2 raw sequence data was deposited into the Sequence Read Archive under accession number [`SRR38727565`](https://www.ncbi.nlm.nih.gov/sra/?term=SRR38727565). 
+
+## Related Repositories
+
+In the following repositories you will find the used pipelines to process the raw data:
+
+- [Haplotype pipeline](https://github.com/Albertcarce1997/VDPV2-Haplotype-Pipeline.git)
+
+- [Rosetta pipeline](https://github.com/Albertcarce1997/Rosetta-VP1-Mutation-Flex-ddG.git)
+
+
+
