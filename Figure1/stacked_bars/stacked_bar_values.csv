@@ -1,0 +1,145 @@
+Dataset,Interactor,VP1_Site,Phenotype,Structural_haplotypes_with_a_replacement_at_the_site,Structural_haplotypes_crossing_the_threshold,Percent
+Barcelona sewage,mAb 10D2,Antigenic site 1,Stabilizing,1,686,0.15
+Barcelona sewage,mAb 10D2,Antigenic site 1,Destabilizing,42,686,6.12
+Barcelona sewage,mAb 10D2,Antigenic site 2,Stabilizing,2,686,0.29
+Barcelona sewage,mAb 10D2,Antigenic site 2,Destabilizing,684,686,99.71
+Barcelona sewage,mAb 10D2,Antigenic site 3,Stabilizing,1,686,0.15
+Barcelona sewage,mAb 10D2,Antigenic site 3,Destabilizing,24,686,3.50
+Barcelona sewage,mAb 10D2,Multiple mAb site,Stabilizing,2,686,0.29
+Barcelona sewage,mAb 10D2,Multiple mAb site,Destabilizing,684,686,99.71
+Barcelona sewage,mAb 10D2,Receptor site,Stabilizing,2,686,0.29
+Barcelona sewage,mAb 10D2,Receptor site,Destabilizing,684,686,99.71
+Barcelona sewage,mAb 10D2,Pocket factor site,Stabilizing,0,686,0.00
+Barcelona sewage,mAb 10D2,Pocket factor site,Destabilizing,48,686,7.00
+Barcelona sewage,mAb 9H2,Antigenic site 1,Stabilizing,0,272,0.00
+Barcelona sewage,mAb 9H2,Antigenic site 1,Destabilizing,33,272,12.13
+Barcelona sewage,mAb 9H2,Antigenic site 2,Stabilizing,0,272,0.00
+Barcelona sewage,mAb 9H2,Antigenic site 2,Destabilizing,272,272,100.00
+Barcelona sewage,mAb 9H2,Antigenic site 3,Stabilizing,0,272,0.00
+Barcelona sewage,mAb 9H2,Antigenic site 3,Destabilizing,11,272,4.04
+Barcelona sewage,mAb 9H2,Multiple mAb site,Stabilizing,0,272,0.00
+Barcelona sewage,mAb 9H2,Multiple mAb site,Destabilizing,272,272,100.00
+Barcelona sewage,mAb 9H2,Receptor site,Stabilizing,0,272,0.00
+Barcelona sewage,mAb 9H2,Receptor site,Destabilizing,272,272,100.00
+Barcelona sewage,mAb 9H2,Pocket factor site,Stabilizing,0,272,0.00
+Barcelona sewage,mAb 9H2,Pocket factor site,Destabilizing,25,272,9.19
+Barcelona sewage,Pocket factor,Antigenic site 1,Stabilizing,0,51,0.00
+Barcelona sewage,Pocket factor,Antigenic site 1,Destabilizing,3,51,5.88
+Barcelona sewage,Pocket factor,Antigenic site 2,Stabilizing,1,51,1.96
+Barcelona sewage,Pocket factor,Antigenic site 2,Destabilizing,50,51,98.04
+Barcelona sewage,Pocket factor,Antigenic site 3,Stabilizing,0,51,0.00
+Barcelona sewage,Pocket factor,Antigenic site 3,Destabilizing,0,51,0.00
+Barcelona sewage,Pocket factor,Multiple mAb site,Stabilizing,1,51,1.96
+Barcelona sewage,Pocket factor,Multiple mAb site,Destabilizing,50,51,98.04
+Barcelona sewage,Pocket factor,Receptor site,Stabilizing,1,51,1.96
+Barcelona sewage,Pocket factor,Receptor site,Destabilizing,50,51,98.04
+Barcelona sewage,Pocket factor,Pocket factor site,Stabilizing,1,51,1.96
+Barcelona sewage,Pocket factor,Pocket factor site,Destabilizing,39,51,76.47
+Barcelona sewage,CD155 receptor,Antigenic site 1,Stabilizing,5,68,7.35
+Barcelona sewage,CD155 receptor,Antigenic site 1,Destabilizing,1,68,1.47
+Barcelona sewage,CD155 receptor,Antigenic site 2,Stabilizing,34,68,50.00
+Barcelona sewage,CD155 receptor,Antigenic site 2,Destabilizing,34,68,50.00
+Barcelona sewage,CD155 receptor,Antigenic site 3,Stabilizing,0,68,0.00
+Barcelona sewage,CD155 receptor,Antigenic site 3,Destabilizing,0,68,0.00
+Barcelona sewage,CD155 receptor,Multiple mAb site,Stabilizing,34,68,50.00
+Barcelona sewage,CD155 receptor,Multiple mAb site,Destabilizing,34,68,50.00
+Barcelona sewage,CD155 receptor,Receptor site,Stabilizing,34,68,50.00
+Barcelona sewage,CD155 receptor,Receptor site,Destabilizing,34,68,50.00
+Barcelona sewage,CD155 receptor,Pocket factor site,Stabilizing,7,68,10.29
+Barcelona sewage,CD155 receptor,Pocket factor site,Destabilizing,3,68,4.41
+Nigeria cVDPV2,mAb 10D2,Antigenic site 1,Stabilizing,0,2,0.00
+Nigeria cVDPV2,mAb 10D2,Antigenic site 1,Destabilizing,0,2,0.00
+Nigeria cVDPV2,mAb 10D2,Antigenic site 2,Stabilizing,0,2,0.00
+Nigeria cVDPV2,mAb 10D2,Antigenic site 2,Destabilizing,1,2,50.00
+Nigeria cVDPV2,mAb 10D2,Antigenic site 3,Stabilizing,1,2,50.00
+Nigeria cVDPV2,mAb 10D2,Antigenic site 3,Destabilizing,0,2,0.00
+Nigeria cVDPV2,mAb 10D2,Multiple mAb site,Stabilizing,1,2,50.00
+Nigeria cVDPV2,mAb 10D2,Multiple mAb site,Destabilizing,1,2,50.00
+Nigeria cVDPV2,mAb 10D2,Receptor site,Stabilizing,1,2,50.00
+Nigeria cVDPV2,mAb 10D2,Receptor site,Destabilizing,1,2,50.00
+Nigeria cVDPV2,mAb 10D2,Pocket factor site,Stabilizing,0,2,0.00
+Nigeria cVDPV2,mAb 10D2,Pocket factor site,Destabilizing,0,2,0.00
+Nigeria cVDPV2,mAb 9H2,Antigenic site 1,Stabilizing,0,6,0.00
+Nigeria cVDPV2,mAb 9H2,Antigenic site 1,Destabilizing,5,6,83.33
+Nigeria cVDPV2,mAb 9H2,Antigenic site 2,Stabilizing,0,6,0.00
+Nigeria cVDPV2,mAb 9H2,Antigenic site 2,Destabilizing,1,6,16.67
+Nigeria cVDPV2,mAb 9H2,Antigenic site 3,Stabilizing,0,6,0.00
+Nigeria cVDPV2,mAb 9H2,Antigenic site 3,Destabilizing,1,6,16.67
+Nigeria cVDPV2,mAb 9H2,Multiple mAb site,Stabilizing,0,6,0.00
+Nigeria cVDPV2,mAb 9H2,Multiple mAb site,Destabilizing,5,6,83.33
+Nigeria cVDPV2,mAb 9H2,Receptor site,Stabilizing,0,6,0.00
+Nigeria cVDPV2,mAb 9H2,Receptor site,Destabilizing,6,6,100.00
+Nigeria cVDPV2,mAb 9H2,Pocket factor site,Stabilizing,0,6,0.00
+Nigeria cVDPV2,mAb 9H2,Pocket factor site,Destabilizing,0,6,0.00
+Nigeria cVDPV2,Pocket factor,Antigenic site 1,Stabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Antigenic site 1,Destabilizing,1,2,50.00
+Nigeria cVDPV2,Pocket factor,Antigenic site 2,Stabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Antigenic site 2,Destabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Antigenic site 3,Stabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Antigenic site 3,Destabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Multiple mAb site,Stabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Multiple mAb site,Destabilizing,1,2,50.00
+Nigeria cVDPV2,Pocket factor,Receptor site,Stabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Receptor site,Destabilizing,1,2,50.00
+Nigeria cVDPV2,Pocket factor,Pocket factor site,Stabilizing,0,2,0.00
+Nigeria cVDPV2,Pocket factor,Pocket factor site,Destabilizing,2,2,100.00
+Nigeria cVDPV2,CD155 receptor,Antigenic site 1,Stabilizing,2,14,14.29
+Nigeria cVDPV2,CD155 receptor,Antigenic site 1,Destabilizing,0,14,0.00
+Nigeria cVDPV2,CD155 receptor,Antigenic site 2,Stabilizing,2,14,14.29
+Nigeria cVDPV2,CD155 receptor,Antigenic site 2,Destabilizing,0,14,0.00
+Nigeria cVDPV2,CD155 receptor,Antigenic site 3,Stabilizing,1,14,7.14
+Nigeria cVDPV2,CD155 receptor,Antigenic site 3,Destabilizing,0,14,0.00
+Nigeria cVDPV2,CD155 receptor,Multiple mAb site,Stabilizing,5,14,35.71
+Nigeria cVDPV2,CD155 receptor,Multiple mAb site,Destabilizing,1,14,7.14
+Nigeria cVDPV2,CD155 receptor,Receptor site,Stabilizing,11,14,78.57
+Nigeria cVDPV2,CD155 receptor,Receptor site,Destabilizing,1,14,7.14
+Nigeria cVDPV2,CD155 receptor,Pocket factor site,Stabilizing,0,14,0.00
+Nigeria cVDPV2,CD155 receptor,Pocket factor site,Destabilizing,0,14,0.00
+iVDPV2,mAb 10D2,Antigenic site 1,Stabilizing,2,62,3.23
+iVDPV2,mAb 10D2,Antigenic site 1,Destabilizing,59,62,95.16
+iVDPV2,mAb 10D2,Antigenic site 2,Stabilizing,1,62,1.61
+iVDPV2,mAb 10D2,Antigenic site 2,Destabilizing,59,62,95.16
+iVDPV2,mAb 10D2,Antigenic site 3,Stabilizing,1,62,1.61
+iVDPV2,mAb 10D2,Antigenic site 3,Destabilizing,23,62,37.10
+iVDPV2,mAb 10D2,Multiple mAb site,Stabilizing,2,62,3.23
+iVDPV2,mAb 10D2,Multiple mAb site,Destabilizing,59,62,95.16
+iVDPV2,mAb 10D2,Receptor site,Stabilizing,3,62,4.84
+iVDPV2,mAb 10D2,Receptor site,Destabilizing,59,62,95.16
+iVDPV2,mAb 10D2,Pocket factor site,Stabilizing,1,62,1.61
+iVDPV2,mAb 10D2,Pocket factor site,Destabilizing,0,62,0.00
+iVDPV2,mAb 9H2,Antigenic site 1,Stabilizing,0,90,0.00
+iVDPV2,mAb 9H2,Antigenic site 1,Destabilizing,89,90,98.89
+iVDPV2,mAb 9H2,Antigenic site 2,Stabilizing,0,90,0.00
+iVDPV2,mAb 9H2,Antigenic site 2,Destabilizing,80,90,88.89
+iVDPV2,mAb 9H2,Antigenic site 3,Stabilizing,0,90,0.00
+iVDPV2,mAb 9H2,Antigenic site 3,Destabilizing,40,90,44.44
+iVDPV2,mAb 9H2,Multiple mAb site,Stabilizing,0,90,0.00
+iVDPV2,mAb 9H2,Multiple mAb site,Destabilizing,90,90,100.00
+iVDPV2,mAb 9H2,Receptor site,Stabilizing,0,90,0.00
+iVDPV2,mAb 9H2,Receptor site,Destabilizing,90,90,100.00
+iVDPV2,mAb 9H2,Pocket factor site,Stabilizing,0,90,0.00
+iVDPV2,mAb 9H2,Pocket factor site,Destabilizing,7,90,7.78
+iVDPV2,Pocket factor,Antigenic site 1,Stabilizing,0,7,0.00
+iVDPV2,Pocket factor,Antigenic site 1,Destabilizing,7,7,100.00
+iVDPV2,Pocket factor,Antigenic site 2,Stabilizing,0,7,0.00
+iVDPV2,Pocket factor,Antigenic site 2,Destabilizing,7,7,100.00
+iVDPV2,Pocket factor,Antigenic site 3,Stabilizing,0,7,0.00
+iVDPV2,Pocket factor,Antigenic site 3,Destabilizing,7,7,100.00
+iVDPV2,Pocket factor,Multiple mAb site,Stabilizing,0,7,0.00
+iVDPV2,Pocket factor,Multiple mAb site,Destabilizing,7,7,100.00
+iVDPV2,Pocket factor,Receptor site,Stabilizing,0,7,0.00
+iVDPV2,Pocket factor,Receptor site,Destabilizing,7,7,100.00
+iVDPV2,Pocket factor,Pocket factor site,Stabilizing,0,7,0.00
+iVDPV2,Pocket factor,Pocket factor site,Destabilizing,7,7,100.00
+iVDPV2,CD155 receptor,Antigenic site 1,Stabilizing,21,27,77.78
+iVDPV2,CD155 receptor,Antigenic site 1,Destabilizing,6,27,22.22
+iVDPV2,CD155 receptor,Antigenic site 2,Stabilizing,21,27,77.78
+iVDPV2,CD155 receptor,Antigenic site 2,Destabilizing,6,27,22.22
+iVDPV2,CD155 receptor,Antigenic site 3,Stabilizing,7,27,25.93
+iVDPV2,CD155 receptor,Antigenic site 3,Destabilizing,5,27,18.52
+iVDPV2,CD155 receptor,Multiple mAb site,Stabilizing,21,27,77.78
+iVDPV2,CD155 receptor,Multiple mAb site,Destabilizing,6,27,22.22
+iVDPV2,CD155 receptor,Receptor site,Stabilizing,21,27,77.78
+iVDPV2,CD155 receptor,Receptor site,Destabilizing,6,27,22.22
+iVDPV2,CD155 receptor,Pocket factor site,Stabilizing,1,27,3.70
+iVDPV2,CD155 receptor,Pocket factor site,Destabilizing,0,27,0.00

@@ -1,0 +1,13 @@
+From,To,Type,Substitutions,Percent_of_all_substitutions
+T,C,transition,6657987,37.2837
+A,G,transition,4805296,26.9089
+C,T,transition,2969844,16.6307
+G,A,transition,2241302,12.5509
+C,A,transversion,742227,4.1564
+A,T,transversion,372296,2.0848
+C,G,transversion,23283,0.1304
+G,C,transversion,21822,0.1222
+A,C,transversion,8242,0.0462
+G,T,transversion,6518,0.0365
+T,G,transversion,6490,0.0363
+T,A,transversion,2340,0.0131
